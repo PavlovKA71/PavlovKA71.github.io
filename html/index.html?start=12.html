@@ -18,10 +18,16 @@
 		</tr>
 		<tr>
 			<td id="search">
-				<form action="https://vox-journal.org/html/search">
-				Поиск: <input name="query" class="field"/>
-				<a href="javascript:document.forms.item(0).submit();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
-				</form>
+                        <form name="searchform" method="get" action="https://www.google.com/search">
+<script>
+function submitSearchForm(){
+        document.searchform.q.value = "site:vox-journal.org " + document.searchform.q.value;
+        document.searchform.submit();
+}
+</script>
+                                Поиск: <input name="q" class="field"/>
+                                <a href="javascript:submitSearchForm();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
+                        </form>
 			</td>
 		</tr>
 
