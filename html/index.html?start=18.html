@@ -18,7 +18,7 @@
 		</tr>
 		<tr>
 			<td id="search">
-                        <form name="searchform" method="get" action="https://www.google.com/search">
+                        <form name="searchform" method="get" action="https://www.google.com/search" onsubmit="submitSearchForm();">
 <script>
 function submitSearchForm(){
         document.searchform.q.value = "site:vox-journal.org " + document.searchform.q.value;

@@ -14,7 +14,7 @@
 			<div style="padding-right: 160px; font-weight: bold">
 				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
 			</div>
-			<form name="searchform" method="get" action="https://www.google.com/search">
+			<form name="searchform" method="get" action="https://www.google.com/search" onsubmit="submitSearchForm();">
 <script>
 function submitSearchForm(){
 	document.searchform.q.value = "site:vox-journal.org " + document.searchform.q.value;
