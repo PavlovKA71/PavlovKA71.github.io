@@ -3,21 +3,21 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="STYLESHEET" type="text/css" href="/templates/default/main.css" />
+	<link rel="STYLESHEET" type="text/css" href="../../../templates/default/main.css" />
 	<title>О значении и смысле - VOX - философский журнал</title>
 </head>
 <body>
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
 <table id="header2">
 	<tr>
-		<td rowspan="2" id="logo2"><a href="/html/"><img src="/templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
+		<td rowspan="2" id="logo2"><a href="../../index.html"><img src="../../../templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
 		<td id="search2">
 			<div style="padding-right: 160px; font-weight: bold">
 				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
 			</div>
-			<form action="/html/search">
+			<form action="https://vox-journal.org/html/search">
 				Поиск: <input name="query" class="field"/>
-				<a href="javascript:document.forms.item(0).submit();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../../../templates/default/images/search.gif" alt="Поиск" /></a>
 			</form>
 		</td>
 	</tr>
@@ -27,13 +27,13 @@
 				<tr>
 					<td>
 
-				<a href="/html/journal">О журнале</a>
+				<a href="../../journal">О журнале</a>
 
-				<a href="/html/authors">Состав Редколлегии и Учредители</a>
+				<a href="../../authors">Состав Редколлегии и Учредители</a>
 
-				<a href="/html/contact">Контакты</a>
+				<a href="../../contact">Контакты</a>
 
-				<a href="/html/ethics">Этика журнала</a>
+				<a href="../../ethics">Этика журнала</a>
 					</td>
 					<td align="right">
 					</td>
@@ -45,7 +45,7 @@
 
 <table id="path">
 	<tr>
-		<td class="volume"><a href="/html/issues/280">Выпуск №17 декабрь, 2014</a></td>
+		<td class="volume"><a href="../280">Выпуск №17 декабрь, 2014</a></td>
 		<td class="section">СМЫСЛЫ ЛОГИКИ И ЛОГИКА СМЫСЛА</td>
 	</tr>
 </table>
@@ -55,7 +55,7 @@
 <h1>О значении и смысле</h1>
 <h2>Б.Т. Домбровский</h2>
 <p style="text-indent: 35.25pt; margin-left: 35.4pt" class="MsoNormal"><strong><span style="font-family: Georgia, serif; font-size: 11pt">Аннотация: </span></strong><span style="font-family: Georgia, serif; font-size: 11pt">Предпринята попытка различения понятий значения и смысла с точки зрения онтологии. Утверждается, что различие введенных Г.Фреге понятий прямого (обычного) и косвенного денотатов обусловлено временем: значению соответствуют моменты настоящего времени, тогда для смысла они не достижимы; смыслу присуще прошлое и будущее время, которое можно рассматривать как длительность.</span></p>  <p style="text-indent: 0cm; margin-left: 35.4pt" class="MsoNormal"><strong><span style="font-family: Georgia, serif; font-size: 11pt">&nbsp;</span></strong><strong style="font-size: 0.8em"><span style="font-family: Georgia, serif; font-size: 11pt">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ключевые слова</span></strong><strong style="font-size: 0.8em"><span style="font-family: Georgia, serif; font-size: 11pt">: </span></strong><span style="font-family: Georgia, serif; font-size: 11pt">денотация, коннотация, понятие, символ, дескрипция, значение, смысл</span></p><p>&nbsp;</p><h1>On meaning and sense</h1><h3><span style="white-space: pre" class="Apple-tab-span">	</span>B. Dombrovsky</h3><p><span style="white-space: pre" class="Apple-tab-span">		</span>&nbsp;</p><p><span style="white-space: pre" class="Apple-tab-span">		</span><strong>Abstract:&nbsp;</strong>&nbsp;The difference between the meaning (Bedeutung) and the sense (Sinn) is considered from ontological point of view. We state here that the difference between direct and indirect denotate,&nbsp;<span style="font-size: 12.8px">which was once introduced by G.Frege, is conditioned by time. 'The meaning' corresponds to the momets of present time, while 'the sense' is atributed to the past and future times and could be considered as duration.&nbsp;</span></p><p><span style="white-space: pre" class="Apple-tab-span">		</span><strong>Key words:</strong> denotation, connotation, notion, symbol, description, meaning, sense&nbsp;</p>	<p class="fullTextLink">
-		<a href="/content/vox17/Vox17-Dombrovsky.pdf">Полный текст RU</a>
+		<a href="https://vox-journal.org/content/vox17/Vox17-Dombrovsky.pdf">Полный текст RU</a>
 	</p>
 </div>
 
@@ -63,7 +63,7 @@
 	<div style="float:right;padding-right:4px">
 	</div>
 	<div>© авторы и учредители</div>
-	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="/html/contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="../../contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
 	<div style="clear:right"></div>
 </div>
 

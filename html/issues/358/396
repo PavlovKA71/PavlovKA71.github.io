@@ -3,21 +3,21 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="STYLESHEET" type="text/css" href="/templates/default/main.css" />
+	<link rel="STYLESHEET" type="text/css" href="../../../templates/default/main.css" />
 	<title>Проблема субъекта в современной физике и космологии - VOX - философский журнал</title>
 </head>
 <body>
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
 <table id="header2">
 	<tr>
-		<td rowspan="2" id="logo2"><a href="/html/"><img src="/templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
+		<td rowspan="2" id="logo2"><a href="../../index.html"><img src="../../../templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
 		<td id="search2">
 			<div style="padding-right: 160px; font-weight: bold">
 				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
 			</div>
-			<form action="/html/search">
+			<form action="https://vox-journal.org/html/search">
 				Поиск: <input name="query" class="field"/>
-				<a href="javascript:document.forms.item(0).submit();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../../../templates/default/images/search.gif" alt="Поиск" /></a>
 			</form>
 		</td>
 	</tr>
@@ -27,13 +27,13 @@
 				<tr>
 					<td>
 
-				<a href="/html/journal">О журнале</a>
+				<a href="../../journal">О журнале</a>
 
-				<a href="/html/authors">Состав Редколлегии и Учредители</a>
+				<a href="../../authors">Состав Редколлегии и Учредители</a>
 
-				<a href="/html/contact">Контакты</a>
+				<a href="../../contact">Контакты</a>
 
-				<a href="/html/ethics">Этика журнала</a>
+				<a href="../../ethics">Этика журнала</a>
 					</td>
 					<td align="right">
 					</td>
@@ -45,7 +45,7 @@
 
 <table id="path">
 	<tr>
-		<td class="volume"><a href="/html/issues/358">Выпуск №22 июнь, 2017</a></td>
+		<td class="volume"><a href="../358">Выпуск №22 июнь, 2017</a></td>
 		<td class="section">ШАГИ ПО СЛЕДАМ</td>
 	</tr>
 </table>
@@ -55,7 +55,7 @@
 <h1>Проблема субъекта в современной физике и космологии</h1>
 <h2>Калинин Э.Ю.</h2>
 <font face="Times New Roman" size="3">  </font><p style="text-indent: 0cm; margin-bottom: 8pt"><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">Аннотация</span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">: <span>&nbsp;</span><span>Проблема субъекта всегда присуща научному познанию. </span>Стремление к включению процесса измерения в структуру квантовой теории приводит к логическим противоречиям. Для их разрешения либо натурализуется субъект познания, что приводит к его утрате и гносеологическому тупику, либо происходит одухотворение одного из природных или когнитивных объектов теории, что выводит концепцию за пределы науки. Понимание трансцендентальной природы субъекта в ее символической форме позволяет включить эмпирического индивида в процесс познания, не жертвуя его спецификой</span><span style="font-family: 'Georgia','serif'; font-size: 11pt">.</span></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-indent: 0cm"><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">Ключевые слова</span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">: квантовая физика, космология, философия, субъект, постклассическая рациональность, смысл, коммуникация, теория, наблюдатель, измерение</span></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-align: left; text-indent: 14pt" align="left"><strong><span style="font-family: 'Calibri','sans-serif'; font-size: 16pt">&nbsp;</span></strong><strong><span style="font-family: 'Georgia','serif'; font-size: 18pt"><span>&nbsp;</span></span></strong><strong><span style="font-family: 'Georgia','serif'; font-size: 18pt">The problem of subject in modern physics and cosmology </span></strong></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-align: left; text-indent: 14pt" align="left"><strong><span style="font-family: 'Georgia','serif'; font-size: 14pt"><span>&nbsp;<font style="background-color: #e1e1e1">&nbsp;</font></span><font style="background-color: #e1e1e1">Kalinin E.U</font>., Moscow Power Engineering Institute</span></strong></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-indent: 0cm"><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">Abstract</span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">:</span><span style="font-family: 'Georgia','serif'; font-size: 11pt">&nbsp;<span>The problem of the subject is always inherent in scientific cognition. The aspiration to inclusion of measurement in structure of the quantum theory leads to logical contradictions. For their permission either the subject of cognition is naturalized that leads to his loss and the gnoseological deadlock, or to a spiritualizing of one of natural or cognitive objects of the theory that outputs the concept out of science limits. The understanding of the transcendental nature of the subject in her symbolical form allows to include the empirical individual in cognitive process, without endowing its specifics</span></span></p><p><font face="Times New Roman" size="3">  </font><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">Keywords</span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">:</span><span style="font-family: 'Georgia','serif'; font-size: 11pt"> </span><span style="color: black; font-family: 'Times New Roman','serif'; font-size: 12pt">quantum physics, cosmology, philosophy, subject, post-classical rationality, sense, communication, theory, observer, measurement</span></p><p><strong>DOI: 10.24411/2077-6608-2017-00011</strong></p>	<p class="fullTextLink">
-		<a href="/content/Vox 22/Vox22-Kalinin.pdf">Полный текст RU</a>
+		<a href="https://vox-journal.org/content/Vox&#32;22/Vox22-Kalinin.pdf">Полный текст RU</a>
 	</p>
 </div>
 
@@ -63,7 +63,7 @@
 	<div style="float:right;padding-right:4px">
 	</div>
 	<div>© авторы и учредители</div>
-	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="/html/contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="../../contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
 	<div style="clear:right"></div>
 </div>
 

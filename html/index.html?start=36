@@ -1,0 +1,274 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="STYLESHEET" type="text/css" href="../templates/default/main.css" />
+	<title>VOX - философский журнал</title>
+</head>
+<body>
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
+	<table id="header">
+		<tr>
+			<td rowspan="3" id="logo"><img src="../templates/default/images/logo.gif" width="285" height="149" alt="VOX - философский журнал" /></td>
+
+			<td id="metadata">
+				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
+			</td>
+			<td rowspan="3" id="wheel"><img src="../templates/default/images/wheel.gif" width="207" height="149" alt="" /></td>
+		</tr>
+		<tr>
+			<td id="search">
+				<form action="https://vox-journal.org/html/search">
+				Поиск: <input name="query" class="field"/>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../templates/default/images/search.gif" alt="Поиск" /></a>
+				</form>
+			</td>
+		</tr>
+
+		<tr>
+			<td id="menu">
+				<table width="100%">
+					<tr>
+						<td>
+
+							<a href="journal">О журнале</a>
+
+							<a href="authors">Состав Редколлегии и Учредители</a>
+
+							<a href="contact">Контакты</a>
+
+							<a href="ethics">Этика журнала</a>
+						</td>
+						<td align="right">
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+<div>
+	</div>
+
+
+<table id="contents">
+	<tr class="headRow">
+		<td id="prev">
+		</td>
+		<td class="volume "></td>
+		<td class="volume "></td>
+		<td class="volume "><div><a href="issues/vox1">Выпуск №1<br />декабрь, 2006</a></div></td>
+		<td class="volume "><div><a href="issues/vox2">Выпуск №2<br />май, 2007</a></div></td>
+		<td class="volume "><div><a href="issues/vox3">Выпуск №3<br />декабрь, 2007</a></div></td>
+		<td class="volume last_volume"><div><a href="issues/vox4">Выпуск №4<br />май, 2008</a></div></td>
+		<td id="next">
+			<a href="index.html?start=30">Следующие</a>
+		</td>
+	</tr>
+	<tr>
+		<td id="sections">Рубрики</td>
+		<td colspan="7" id="sections_row"></td>
+	</tr>
+	<tr>
+		<td class="section">ПЕРВОЕ СЛОВО</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox1/4">П.Д. Тищенко</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox2/17">Е.В. Орлов</a><br />
+			<a href="issues/vox2/18">К.А. Павлов</a><br />
+			<a href="issues/vox2/19">З.Н. Микеладзе</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/30">Л.Г. Кришталева</a><br />
+			<a href="issues/vox3/31">М.К. Петров</a><br />
+			<a href="issues/vox3/32">С.С. Неретина</a><br />
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/61">К. Кереньи</a><br />
+			<a href="issues/vox4/62">Н.Н. Мурзин</a><br />
+			<a href="issues/vox4/63">С.С. Неретина</a><br />
+			<a href="issues/vox4/64">В.М. Розин</a><br />
+			<a href="issues/vox4/65"></a><br />
+			<a href="issues/vox4/66"></a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">ПРОШЛОЕ НАСТОЯЩЕЕ</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox1/6">С.С. Неретина</a><br />
+			<a href="issues/vox1/9">А.Н. Уайтхед</a><br />
+			<a href="issues/vox1/10">Л.Б. Туманова</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox2/20">С.С. Неретина</a><br />
+			<a href="issues/vox2/21">Е. Матусевич</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/55">Н.Н. Мурзин</a><br />
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/67">О.А. Донских</a><br />
+			<a href="issues/vox4/68">Л.Г. Кришталева</a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">ШАГИ ПО СЛЕДАМ</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox1/11">М. Хайдеггер</a><br />
+			<a href="issues/vox1/12">Н.Н. Мурзин</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox2/22">Н.Н. Мурзин</a><br />
+			<a href="issues/vox2/23">М. Хайдеггер</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/56">Иоанн Дунс Скот</a><br />
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/69">С.С. Неретина</a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">СМЫСЛЫ ЛОГИКИ И ЛОГИКА СМЫСЛА</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox3/54">К.А. Павлов</a><br />
+		</td>
+		<td class="last_column">
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">УЧЕНЫЙ СОВЕТ</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox1/13">М.К. Рыклин</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox2/24">В.М. Межуев</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/57">Т.И. Ойзерман</a><br />
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/70">В.А. Подорога</a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">ОТКЛИКИ-ОКЛИКИ</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox2/25">о В.В. Бибихине</a><br />
+			<a href="issues/vox2/26">А.П. Огурцов</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/58">А.П. Огурцов</a><br />
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/71">А.П. Огурцов</a><br />
+			<a href="issues/vox4/72">М.В. Атякшев</a><br />
+			<a href="issues/vox4/73">Л. Крыштоп</a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">NOTA BENE</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox1/14">Nota bene</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox2/27">Nota bene</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/59">Nota bene</a><br />
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/74">Nota bene</a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">ХРОНИКА</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="last_column">
+			<a href="issues/vox4/75">"Семинар по метафизике"</a><br />
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+	<tr>
+		<td class="section">ГЛОССАРИЙ</td>
+		<td class="">
+		</td>
+		<td class="">
+		</td>
+		<td class="">
+			<a href="issues/vox1/143">Одно, Вдруг</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox2/28">Воля</a><br />
+		</td>
+		<td class="">
+			<a href="issues/vox3/60">Античная историография</a><br />
+		</td>
+		<td class="last_column">
+		</td>
+		<td class="row_end"> </td>
+	</tr>
+</table>
+
+﻿<div class="footer">
+	<div style="float:right;padding-right:4px">
+	</div>
+	<div>© авторы и учредители</div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div style="clear:right"></div>
+</div>
+
+</body>
+</html>

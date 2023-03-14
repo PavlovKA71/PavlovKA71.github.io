@@ -3,21 +3,21 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="STYLESHEET" type="text/css" href="/templates/default/main.css" />
+	<link rel="STYLESHEET" type="text/css" href="../../../templates/default/main.css" />
 	<title>Можно ли нейтрализовать эпифеноменализм и обойти натурализм?: Проблемы каузальности и феноменальности в книге В. Васильева «Сознание и вещи» - VOX - философский журнал</title>
 </head>
 <body>
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
 <table id="header2">
 	<tr>
-		<td rowspan="2" id="logo2"><a href="/html/"><img src="/templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
+		<td rowspan="2" id="logo2"><a href="../../index.html"><img src="../../../templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
 		<td id="search2">
 			<div style="padding-right: 160px; font-weight: bold">
 				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
 			</div>
-			<form action="/html/search">
+			<form action="https://vox-journal.org/html/search">
 				Поиск: <input name="query" class="field"/>
-				<a href="javascript:document.forms.item(0).submit();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../../../templates/default/images/search.gif" alt="Поиск" /></a>
 			</form>
 		</td>
 	</tr>
@@ -27,13 +27,13 @@
 				<tr>
 					<td>
 
-				<a href="/html/journal">О журнале</a>
+				<a href="../../journal">О журнале</a>
 
-				<a href="/html/authors">Состав Редколлегии и Учредители</a>
+				<a href="../../authors">Состав Редколлегии и Учредители</a>
 
-				<a href="/html/contact">Контакты</a>
+				<a href="../../contact">Контакты</a>
 
-				<a href="/html/ethics">Этика журнала</a>
+				<a href="../../ethics">Этика журнала</a>
 					</td>
 					<td align="right">
 					</td>
@@ -45,7 +45,7 @@
 
 <table id="path">
 	<tr>
-		<td class="volume"><a href="/html/issues/253">Выпуск №16 июнь, 2014</a></td>
+		<td class="volume"><a href="../253">Выпуск №16 июнь, 2014</a></td>
 		<td class="section">ОТКЛИКИ-ОКЛИКИ</td>
 	</tr>
 </table>
@@ -55,7 +55,7 @@
 <h1>Можно ли нейтрализовать эпифеноменализм и обойти натурализм?: Проблемы каузальности и феноменальности в книге В. Васильева «Сознание и вещи»</h1>
 <h2>Д.Э. Гаспарян</h2>
 <p style="margin-bottom: 0.0001pt; text-align: justify; line-height: 120%" class="MsoNormal"><span style="font-size: 12pt; line-height: 120%; font-family: 'Times New Roman', serif">Настоящая небольшая статья представляет собой отклик и размышление над одной из самых ярких книг текущего года &laquo;Сознание и вещи&raquo; В. Васильева.&nbsp; В статье обсуждаются проблемы теории локального интеракционизма, разработанной В. Васильевым, а именно трудности того сценария каузальности, претендующего преодолеть эпифеноменализм, о которой говорит автор. В общем виде это непроясненность вопроса об однородной или двойной каузальности, присутствующей в мире, а также проблема совмещения глобального онтологического детерминизма и локальной свободы сознаний. Кроме того, в статье поднимается вопрос об успешности попытки автора совместить феноменологическую и натуралистическую установки<strong>.</strong></span></p><p style="margin-bottom: 0.0001pt; text-align: justify; line-height: 120%" class="MsoNormal"><strong><span style="font-size: 12pt; line-height: 120%; font-family: 'Times New Roman', serif">&nbsp;</span></strong></p><p style="text-align: justify" class="MsoNormal"><strong><span style="font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif">&nbsp;</span></strong></p><p style="margin-bottom: 0.0001pt; text-align: center; line-height: 120%" class="MsoNormal" align="center"><strong><span style="font-size: 14pt; line-height: 120%; font-family: 'Times New Roman', serif">Is it possible to neutralize epiphenomenalism and avoid naturalism: Problems of causality and phenomenality in the book of V. Vasiliev &quot;Consciousness and things&quot;.</span></strong></p><p style="margin-bottom: 0.0001pt; text-align: center; line-height: 120%" class="MsoNormal" align="center"><strong><span style="font-family: 'Times New Roman', serif">&nbsp;</span></strong></p><p style="margin-bottom: 0.0001pt; text-align: center; line-height: 120%" class="MsoNormal" align="center">&nbsp;</p><h2 style="text-align: left; margin-bottom: 0.0001pt; line-height: 120%"><strong><span style="font-family: 'Times New Roman', serif; background-color: #999999"><font color="#000000">D.E. Gasparyan, NRU-HSE</font></span></strong></h2><p class="MsoNormal">&nbsp;</p><p style="margin-bottom: 0.0001pt; text-align: justify; line-height: 120%" class="MsoNormal"><strong><span style="font-family: 'Times New Roman', serif"><br /></span></strong><span style="font-size: 11pt; line-height: 115%; font-family: 'Times New Roman', serif">This small article is a response, and meditation on one of the most brilliant books of the current year &quot;Consciousness and things&quot; by V. Vasiliev. The article discusses the problems of the theory of local interactions, developed by Vasiliev, namely the difficulty of the scenario of causality, pretending to overcome epiphenomenalism, which says the author. In general this is a vagueness of single or dual causality present in the world, and also the problem of combining the global ontological determinism and local freedom of consciousness. In addition, the article raises the question about the success of the author's attempts to combine the phenomenological and naturalistic approaches.</span></p>	<p class="fullTextLink">
-		<a href="/content/vox16/Vox16-GasparyanD.pdf">Полный текст RU</a>
+		<a href="https://vox-journal.org/content/vox16/Vox16-GasparyanD.pdf">Полный текст RU</a>
 	</p>
 </div>
 
@@ -63,7 +63,7 @@
 	<div style="float:right;padding-right:4px">
 	</div>
 	<div>© авторы и учредители</div>
-	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="/html/contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="../../contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
 	<div style="clear:right"></div>
 </div>
 

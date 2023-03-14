@@ -3,21 +3,21 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="STYLESHEET" type="text/css" href="/templates/default/main.css" />
+	<link rel="STYLESHEET" type="text/css" href="../../../templates/default/main.css" />
 	<title>Где ж вы были 8 лет? - VOX - философский журнал</title>
 </head>
 <body>
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
 <table id="header2">
 	<tr>
-		<td rowspan="2" id="logo2"><a href="/html/"><img src="/templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
+		<td rowspan="2" id="logo2"><a href="../../index.html"><img src="../../../templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
 		<td id="search2">
 			<div style="padding-right: 160px; font-weight: bold">
 				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
 			</div>
-			<form action="/html/search">
+			<form action="https://vox-journal.org/html/search">
 				Поиск: <input name="query" class="field"/>
-				<a href="javascript:document.forms.item(0).submit();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../../../templates/default/images/search.gif" alt="Поиск" /></a>
 			</form>
 		</td>
 	</tr>
@@ -27,13 +27,13 @@
 				<tr>
 					<td>
 
-				<a href="/html/journal">О журнале</a>
+				<a href="../../journal">О журнале</a>
 
-				<a href="/html/authors">Состав Редколлегии и Учредители</a>
+				<a href="../../authors">Состав Редколлегии и Учредители</a>
 
-				<a href="/html/contact">Контакты</a>
+				<a href="../../contact">Контакты</a>
 
-				<a href="/html/ethics">Этика журнала</a>
+				<a href="../../ethics">Этика журнала</a>
 					</td>
 					<td align="right">
 					</td>
@@ -45,7 +45,7 @@
 
 <table id="path">
 	<tr>
-		<td class="volume"><a href="/html/issues/635">Выпуск №36 март, 2022</a></td>
+		<td class="volume"><a href="../635">Выпуск №36 март, 2022</a></td>
 		<td class="section">ОТКЛИКИ-ОКЛИКИ</td>
 	</tr>
 </table>
@@ -64,7 +64,7 @@ someone with the help of our reasoning. Let's look at several arguments, which
 are offered to us, if not by the state itself, then by those who agree with the
 "special operation" in Ukraine.</span></p>
 <span><strong>Kew words:</strong> “special operation”, Ukraine, reasoning<p><strong><span>DOI: https:/doi.org/10.37769/2077-6608-202</span>2<span>-3</span>6</strong><span><strong>-9</strong></span></p></span>	<p class="fullTextLink">
-		<a href="/content/Vox 36/Vox36_10_Горбатова.pdf">Полный текст RU</a>
+		<a href="https://vox-journal.org/content/Vox%2036/Vox36_10_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%82%D0%BE%D0%B2%D0%B0.pdf">Полный текст RU</a>
 	</p>
 </div>
 
@@ -72,7 +72,7 @@ are offered to us, if not by the state itself, then by those who agree with the
 	<div style="float:right;padding-right:4px">
 	</div>
 	<div>© авторы и учредители</div>
-	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="/html/contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="../../contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
 	<div style="clear:right"></div>
 </div>
 

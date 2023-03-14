@@ -3,21 +3,21 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="STYLESHEET" type="text/css" href="/templates/default/main.css" />
+	<link rel="STYLESHEET" type="text/css" href="../../../templates/default/main.css" />
 	<title>Жан Жерсон (1363-1429) и история права в Англии - VOX - философский журнал</title>
 </head>
 <body>
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
 <table id="header2">
 	<tr>
-		<td rowspan="2" id="logo2"><a href="/html/"><img src="/templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
+		<td rowspan="2" id="logo2"><a href="../../index.html"><img src="../../../templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
 		<td id="search2">
 			<div style="padding-right: 160px; font-weight: bold">
 				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
 			</div>
-			<form action="/html/search">
+			<form action="https://vox-journal.org/html/search">
 				Поиск: <input name="query" class="field"/>
-				<a href="javascript:document.forms.item(0).submit();"><img src="/templates/default/images/search.gif" alt="Поиск" /></a>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../../../templates/default/images/search.gif" alt="Поиск" /></a>
 			</form>
 		</td>
 	</tr>
@@ -27,13 +27,13 @@
 				<tr>
 					<td>
 
-				<a href="/html/journal">О журнале</a>
+				<a href="../../journal">О журнале</a>
 
-				<a href="/html/authors">Состав Редколлегии и Учредители</a>
+				<a href="../../authors">Состав Редколлегии и Учредители</a>
 
-				<a href="/html/contact">Контакты</a>
+				<a href="../../contact">Контакты</a>
 
-				<a href="/html/ethics">Этика журнала</a>
+				<a href="../../ethics">Этика журнала</a>
 					</td>
 					<td align="right">
 					</td>
@@ -45,7 +45,7 @@
 
 <table id="path">
 	<tr>
-		<td class="volume"><a href="/html/issues/347">Выпуск №21 декабрь, 2016</a></td>
+		<td class="volume"><a href="../347">Выпуск №21 декабрь, 2016</a></td>
 		<td class="section">ПЕРВОЕ СЛОВО</td>
 	</tr>
 </table>
@@ -55,7 +55,7 @@
 <h1>Жан Жерсон (1363-1429) и история права в Англии</h1>
 <h2>Матусевич Е. </h2>
 <font face="Times New Roman" size="3">  </font><p style="text-indent: 0cm; margin-bottom: 8pt"><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;</span></span></strong><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">Аннотация: </span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">Статья рассматривает малоизвестную тему влияния&nbsp;&nbsp;позднесредневекого богослова Жана Жерсона&nbsp;(1363-1429) в области права в Англии 16 века и в осовенности&nbsp;его вклада в распространение понятия эпикеи&nbsp;(греч.&nbsp;<em>epieikeia)</em>, идущего от Аристотеля. Статья прослеживает влияние Жерсона как в юридическом практике Томаса Мора (Thomas More) так и в трудах его основного политического соперника Кристофера Сан Жермена (Christopher St. Germain), чья длительная популярность обеспечила особое место средневековому пониманию эпикеи в Англии, где оно просуществовало дольше, чем где либо в Европе.</span></p><font face="Times New Roman" size="3">  </font><p style="text-indent: 0cm; margin-bottom: 8pt"><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;</span>Ключевые слова: </span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">право, богословие, Англия, новое время, Томас Мор </span></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-align: left; text-indent: 0cm" align="left"><strong><span style="font-family: 'Georgia','serif'; font-size: 18pt">&nbsp;<strong><span style="font-family: 'Georgia','serif'; font-size: 18pt">Jean Gerson (<em>1363-1429</em>) and the history of English law </span></strong></span></strong></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-align: left; text-indent: 14pt" align="left"><strong><span style="font-family: 'Georgia','serif'; font-size: 14pt"><span>&nbsp;&nbsp;&nbsp; </span><font style="background-color: #e1e1e1">Matusevich E.</font></span></strong></p><font face="Times New Roman" size="3">  </font><p style="margin: 0cm 0cm 8pt; text-indent: 0cm"><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;</span>Abstract:</span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt">&nbsp; The article focuses on the little known subject of Jean&nbsp;Gerson&rsquo;s&nbsp;(1363-1429)&nbsp;legal influence in the 16th century England and particularly on his development of Aristotelian concept of equity (<em>epieikeia)</em>. The study focuses on Gerson's impact on Thomas More's judicial practice as well as on the writings of his major rival&nbsp;Christopher St. Germain whose long lasting popularity&nbsp;ensured that the strictly medieval conception of equity had a longer life in England than in any other country in Europe.</span></p><p><font face="Times New Roman" size="3">&nbsp;&nbsp;</font><strong><span style="font-family: 'Georgia','serif'; font-size: 11pt"><span>&nbsp;&nbsp;&nbsp;</span>Keywords:</span></strong><span style="font-family: 'Georgia','serif'; font-size: 11pt"> law, theology, England, early modern, Thomas More</span></p><p><strong>DOI: 10.24411/2077-6608-2016-00031</strong></p>	<p class="fullTextLink">
-		<a href="/content/Vox 21/Vox21-Matusevich.pdf">Полный текст RU</a>
+		<a href="https://vox-journal.org/content/Vox&#32;21/Vox21-Matusevich.pdf">Полный текст RU</a>
 	</p>
 </div>
 
@@ -63,7 +63,7 @@
 	<div style="float:right;padding-right:4px">
 	</div>
 	<div>© авторы и учредители</div>
-	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="/html/contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="../../contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
 	<div style="clear:right"></div>
 </div>
 

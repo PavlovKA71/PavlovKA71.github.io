@@ -1,0 +1,71 @@
+﻿﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="STYLESHEET" type="text/css" href="../../../templates/default/main.css" />
+	<title>Философия философии - VOX - философский журнал</title>
+</head>
+<body>
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-CW7XGQ9ZZY"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-CW7XGQ9ZZY'); </script>
+<table id="header2">
+	<tr>
+		<td rowspan="2" id="logo2"><a href="../../index.html"><img src="../../../templates/default/images/logo2.gif" width="199" height="99" alt="VOX - философский журнал" /></a></td>
+		<td id="search2">
+			<div style="padding-right: 160px; font-weight: bold">
+				DOI prefix: 10.37769 / Эл № ФС 77-27570 / ISSN 2077-6608
+			</div>
+			<form action="https://vox-journal.org/html/search">
+				Поиск: <input name="query" class="field"/>
+				<a href="javascript:document.forms.item(0).submit();"><img src="../../../templates/default/images/search.gif" alt="Поиск" /></a>
+			</form>
+		</td>
+	</tr>
+	<tr>
+		<td id="menu" class="submenu">
+			<table width="100%">
+				<tr>
+					<td>
+
+				<a href="../../journal">О журнале</a>
+
+				<a href="../../authors">Состав Редколлегии и Учредители</a>
+
+				<a href="../../contact">Контакты</a>
+
+				<a href="../../ethics">Этика журнала</a>
+					</td>
+					<td align="right">
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<table id="path">
+	<tr>
+		<td class="volume"><a href="../vox3">Выпуск №3 декабрь, 2007</a></td>
+		<td class="section">УЧЕНЫЙ СОВЕТ</td>
+	</tr>
+</table>
+
+<div class="text">
+
+<h1>Философия философии</h1>
+<h2>Т. И. Ойзерман</h2>
+<h3>Доклад, произнесенный 3 ноября 2006 г.</h3><p>Я полагаю, что все вы согласитесь со мной, что вопрос &laquo;что такое философия?&raquo; представляется неискушенному в философии человеку элементарным вопросом, таким вопросом, который почерпнут из популярной брошюры или из учебного пособия. И этот неискушенный в философии человек пожимает плечами, когда он видит, что такой известный в мире философ, как Хайдеггер, пишет книгу &laquo;Что такое философия?&raquo;, когда Ортега-и-Гассет пишет книгу &laquo;Что такое философия?&raquo;, когда такие постмодернисты, как Жиль Делез и Феликс Гваттари, пишут книгу &laquo;Что такое философия?&raquo;, и я могу перечислить еще много и много авторов, которые известны как философы и известны как авторы книг на тему &laquo;что такое философия?&raquo;. Значит, это проблема. Один из рано ушедших талантливых философов, Эрик Юдин, как-то сказал, что философия - это проблематизация известного, то есть она есть способ сделать известное проблемой. Еще Гегель говорил, что известное - это еще не значит, что познанное. И Декарт как-то замечал, что он никак не может доказать, чем отличается бодрствование от сна; то есть, факт вроде очевидный, но Декарту требовалось доказательство. И американский прагматист, Фердинанд Шиллер, по этому поводу высказал такой каламбур: если король спит двенадцать часов в сутки, а двенадцать часов бодрствует, а нищий бодрствует 12 часов в сутки, ну и, соответственно, спит остальные двенадцать часов, то разницы между ними нет никакой.</p>  	<p class="fullTextLink">
+		<a href="https://vox-journal.org/content/vox3oizerman.pdf">Полный текст RU</a>
+	</p>
+</div>
+
+﻿<div class="footer">
+	<div style="float:right;padding-right:4px">
+	</div>
+	<div>© авторы и учредители</div>
+	<div>Если на сайте есть материал который принадлежит Вам и Вы не хотите чтоб он был размещен на этом сайте обратитесь к <a href="../../contact">нам</a> и мы незамедлительно снимем его с сайта! </div>
+	<div style="clear:right"></div>
+</div>
+
+</body>
+</html>
